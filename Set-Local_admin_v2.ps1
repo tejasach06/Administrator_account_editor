@@ -1,7 +1,7 @@
-$RemoteLocation = "\\172.16.171.85\userlog"
+$RemoteLocation = "\\192.168\userlog"
 $LogFile = "$RemoteLocation\CorpIt_admin_log.csv"
 $ComputerName = $env:COMPUTERNAME
-$NewCorpitPassword = ConvertTo-SecureString -String "N9ghtm@r3" -AsPlainText -Force
+$NewCorpitPassword = ConvertTo-SecureString -String "change_password" -AsPlainText -Force
 $User = "corpit"
 
 try {
