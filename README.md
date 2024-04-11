@@ -27,7 +27,7 @@ The script logs all actions and their results to a CSV file named `User_Account_
 - `Action`: The action performed by the script.
 - `Result`: The outcome of the action (either "Success" or the error message).
 
-## Known Issues
+## Known Limitation 
 - If the specified user account already exists and is not a member of the Administrators group, the script will not be able to add the user to the Administrators group.
 
 ## Disclaimer
