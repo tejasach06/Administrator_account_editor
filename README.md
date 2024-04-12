@@ -1,5 +1,3 @@
-Got it, here's the updated README with a more generic header:
-
 # User Account Management PowerShell Script
 
 ## Description
